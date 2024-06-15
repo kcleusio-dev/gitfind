@@ -51,7 +51,6 @@ button {
     border-radius: 60px;
     border: 2px solid #e5e5e5;
     margin-right: 32px;
-    
 }
 
 .perfil h3 {
@@ -71,4 +70,11 @@ button {
     color: #999999;
     font-size: 12px;
     margin: 24px 0 0 0;
+}
+
+.repositorio {
+    font-size: 32px;
+    color: #FFFFFF;
+    margin: 12px 0;
+    text-align: center;
 }
